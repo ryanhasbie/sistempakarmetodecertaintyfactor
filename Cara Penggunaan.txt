@@ -1,0 +1,12 @@
+Cara Penggunaan :
+1. Download dan install aplikasi XAMPP Versi 5, maksimal 7.0
+2. Ekstrak file, ke folder : xampp/htdocs
+3. Buka aplikasi XAMPP, start apache dan mysql
+4. Buka Browseer, pilih tab link dan tuliskan : localhost/phpmyadmin
+5. Buat Database Baru dengan nama : sp_cf, kemudian import database yang ada difile htdocs
+6. Jalankan dengan menuliskan link : localhost/namafolder
+
+Support :
+FB : Heru Pralambang Indra Irawan
+WA : 085347828982
+IG : heru.pralambang
